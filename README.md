@@ -2,4 +2,4 @@
 
 ##code girl coolllection
 
-![code girl collection](./images/code girl collection.png)
+![code girl collection](/home/Boxes/Python/images/code girl collection.png)
