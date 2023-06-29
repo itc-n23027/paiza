@@ -1,5 +1,5 @@
 # paiza
 
-##code girl coolllection
+##code girl
 
-![code girl collection](home/Boxes/Python/images/code girl collection.png)
+![code girl](./images/code girl collection.png)
