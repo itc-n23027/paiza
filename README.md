@@ -31,3 +31,29 @@
 [マイク](hakkason/maiku.py)
 
 [カチューシャ](hakkason/katusya.py)
+
+# poh7_彼女をつくる
+
+[つり目](kanojo/tsurime.py)
+
+[眼帯](poh7/gantai.py)
+
+[猫耳セット](poh7/nekomimi-set.py)
+
+[猫セット](poh7/neko-set.py)
+
+[ショートヘア](poh7/shorthair.py)
+
+[ロングヘア](poh7/longhair.py)
+
+[ポニーテール](poh7/ponytail.py)
+
+[ツインテール](poh7/twintail.py)
+
+[セーラー服](poh7/sailor-suit.py)
+
+[カーディガン](poh7/cardigan.py)
+
+[縞ニーソセット](poh7/shima-socks.py)
+
+[メイド服](poh7/maid-fuku.py)
