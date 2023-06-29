@@ -18,7 +18,7 @@
 
 [たれ目](hakkason/tareme.py)
 
-[つり目](hakkason/tsurime.py)
+[つり目](hakkason/turime.py)
 
 [メガネ](hakkason/megane.py)
 
