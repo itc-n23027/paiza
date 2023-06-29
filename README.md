@@ -22,9 +22,9 @@
 
 [メガネ](hakkason/megane.py)
 
-[キュート衣装](hakkason/kyutoishou.py)
+[キュート衣装](hakkason/kyutoisyou.py)
 
-[Sexy衣装](hakkason/sexyishou.py)
+[Sexy衣装](hakkason/sexyisyou.py)
 
 [水着](hakkason/mizugi.py)
 
