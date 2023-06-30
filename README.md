@@ -36,24 +36,24 @@
 
 [つり目](kanojo/tsurime.py)
 
-[眼帯](poh7/gantai.py)
+[眼帯](kanojo/gantai.py)
 
-[猫耳セット](poh7/nekomimi-set.py)
+[猫耳セット](kanojo/nekomimi-set.py)
 
-[猫セット](poh7/neko-set.py)
+[猫セット](kanojo/neko-set.py)
 
-[ショートヘア](poh7/shorthair.py)
+[ショートヘア](kanojo/shorthair.py)
 
-[ロングヘア](poh7/longhair.py)
+[ロングヘア](kanojo/longhair.py)
 
-[ポニーテール](poh7/ponytail.py)
+[ポニーテール](kanojo/ponytail.py)
 
-[ツインテール](poh7/twintail.py)
+[ツインテール](kanojo/twintail.py)
 
-[セーラー服](poh7/sailor-suit.py)
+[セーラー服](kanojo/sailor-suit.py)
 
-[カーディガン](poh7/cardigan.py)
+[カーディガン](kanojo/cardigan.py)
 
-[縞ニーソセット](poh7/shima-socks.py)
+[縞ニーソセット](kanojo/shima-socks.py)
 
-[メイド服](poh7/maid-fuku.py)
+[メイド服](kanojo/maid-fuku.py)
